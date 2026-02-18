@@ -1,0 +1,2 @@
+Mother_System フォルダに hello_app.py を作って。
+中身は print("AAi 起動成功") の1行だけにして。
