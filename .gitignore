@@ -1,4 +1,16 @@
-.venv-jimmy/
+# Python / cache
 __pycache__/
-logs/
 .pytest_cache/
+*.pyc
+
+# venv
+.venv*/
+venv/
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
